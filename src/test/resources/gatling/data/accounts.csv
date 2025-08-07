@@ -1,0 +1,11 @@
+accountId,name,type,currentBalance,currency,institution,status
+account-1,Main Checking,MAIN,5000.00,CAD,Royal Bank of Canada,ACTIVE
+account-2,Credit Card,CREDIT_CARD,-1500.00,CAD,Visa,ACTIVE
+account-3,Savings Account,SAVINGS,10000.00,CAD,Royal Bank of Canada,ACTIVE
+account-4,Investment Account,INVESTMENT,25000.00,CAD,TD Bank,ACTIVE
+account-5,Special Check,SPECIAL_CHECK,2000.00,CAD,Royal Bank of Canada,ACTIVE
+account-6,Student Loan,LOAN,-5000.00,CAD,Government of Canada,ACTIVE
+account-7,USD Account,MAIN,3000.00,USD,TD Bank,ACTIVE
+account-8,EUR Account,SAVINGS,5000.00,EUR,Deutsche Bank,ACTIVE
+account-9,GBP Account,MAIN,2000.00,GBP,Barclays,ACTIVE
+account-10,Inactive Account,MAIN,0.00,CAD,Royal Bank of Canada,INACTIVE 

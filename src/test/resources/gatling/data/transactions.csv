@@ -1,0 +1,21 @@
+transactionId,description,amount,type,category,accountId,transactionDate,notes
+uuid-1,Salary Payment,5000.00,INCOME,SALARY,account-1,2024-01-15,Monthly salary
+uuid-2,Grocery Shopping,-150.00,EXPENSE,GROCERIES,account-1,2024-01-16,Weekly groceries
+uuid-3,Gas Station,-75.00,EXPENSE,FUEL,account-1,2024-01-17,Car fuel
+uuid-4,Restaurant,-85.00,EXPENSE,DINING,account-1,2024-01-18,Dinner with friends
+uuid-5,Internet Bill,-120.00,EXPENSE,INTERNET,account-1,2024-01-19,Monthly internet
+uuid-6,Phone Bill,-95.00,EXPENSE,PHONE,account-1,2024-01-20,Monthly phone
+uuid-7,Insurance Payment,-200.00,EXPENSE,INSURANCE,account-1,2024-01-21,Car insurance
+uuid-8,Entertainment,-50.00,EXPENSE,ENTERTAINMENT,account-1,2024-01-22,Movie tickets
+uuid-9,Clothing,-120.00,EXPENSE,SHOPPING,account-1,2024-01-23,New clothes
+uuid-10,Transportation,-25.00,EXPENSE,TRANSPORTATION,account-1,2024-01-24,Bus fare
+uuid-11,Bonus Payment,2000.00,INCOME,BONUS,account-1,2024-01-25,Performance bonus
+uuid-12,Investment Income,500.00,INCOME,INVESTMENT_INCOME,account-1,2024-01-26,Dividend payment
+uuid-13,Healthcare,-150.00,EXPENSE,HEALTHCARE,account-1,2024-01-27,Doctor visit
+uuid-14,Education,-300.00,EXPENSE,EDUCATION,account-1,2024-01-28,Course fees
+uuid-15,Travel,-800.00,EXPENSE,TRAVEL,account-1,2024-01-29,Vacation expenses
+uuid-16,Subscriptions,-15.00,EXPENSE,SUBSCRIPTIONS,account-1,2024-01-30,Netflix subscription
+uuid-17,Other Income,300.00,INCOME,OTHER_INCOME,account-1,2024-01-31,Freelance work
+uuid-18,Other Expense,-45.00,EXPENSE,OTHER_EXPENSE,account-1,2024-02-01,Miscellaneous
+uuid-19,Credit Card Payment,-500.00,EXPENSE,CREDIT_CARD_PAYMENT,account-2,2024-01-15,Monthly payment
+uuid-20,Credit Card Interest,-25.00,EXPENSE,CREDIT_CARD_INTEREST,account-2,2024-01-16,Interest charge 
